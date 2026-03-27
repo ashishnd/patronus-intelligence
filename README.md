@@ -1,4 +1,4 @@
-# Patronus Intelligence 🔍
+# Patronus: Agentic AI RAG Intelligence System
 
 > An AI-powered document research agent — query the **Cyber Ireland 2022 Report** with exact citations, powered by GPT-4o-mini and a from-scratch TF-IDF vector store.
 
